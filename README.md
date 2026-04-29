@@ -1,4 +1,4 @@
-# students_pack_example
+# About the package stud
 
 This is a package developed by students
 
